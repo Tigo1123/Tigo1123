@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineering Student | Web Developer | Building Real-World Solutions</h3>
 
 <p align="center">
-  <img src="assets/banner.gif" alt="Coding Hello World animation" height="300"/>
+  <img src="assets/new.jpg" alt="Coding Hello World animation" height="300"/>
   &nbsp;&nbsp;
   <img src="assets/diagram.png" alt="Diagram" height="300"/>
 </p>
