@@ -1,8 +1,12 @@
-# Hi, I'm Tageldin Gasmalla 👋
+<h1 align="center">Hi, I'm Tageldin Gasmalla 👋</h1>
 
-### Software Engineering Student | Web Developer | Building Real-World Solutions
-<img src="banner.gif" alt="Coding Hello World animation" width="400"/>
-<img src="new.png" alt="termminal" width="400"/>
+<h3 align="center">Software Engineering Student | Web Developer | Building Real-World Solutions</h3>
+
+<p align="center">
+  <img src="assets/banner.gif" alt="Coding Hello World animation" width="350"/>
+  &nbsp;&nbsp;
+  <img src="assets/diagram.png" alt="Diagram" width="350"/>
+</p>
 
 I'm a Software Engineering student who loves turning ideas into working products. I learn best by building, so most of what I know comes from real projects beyond the classroom.
 
@@ -31,7 +35,7 @@ I'm growing from front-end into full-stack development, with a focus on practica
 
 ## 📌 Featured Projects
 
-- **[clinic_](https://github.com/Tigo1123/clinic_)**: Bilingual Arabic/English clinic management system
+- **[clinic\_](https://github.com/Tigo1123/clinic_)**: Bilingual Arabic/English clinic management system
 - **[student-planner](https://github.com/Tigo1123/student-planner)**: Academic planner with calendar, tasks, and dashboard
 - **[smartapply-rw](https://github.com/Tigo1123/smartapply-rw)**: Application helper
 - **[personalPortfolio](https://github.com/Tigo1123/personalPortfolio)**: My personal portfolio site
