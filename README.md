@@ -1,7 +1,7 @@
 # Hi, I'm Tageldin Gasimalla 👋
 
 ### Software Engineering Student | Web Developer | Building Real-World Solutions
-
+<img src="banner.gif" alt="Coding Hello World animation" width="400"/>
 I'm a Software Engineering student who loves turning ideas into working products. I learn best by building, so most of what I know comes from real projects beyond the classroom.
 
 I'm growing from front-end into full-stack development, with a focus on practical apps that solve real problems.
