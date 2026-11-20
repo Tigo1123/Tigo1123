@@ -1,4 +1,4 @@
-# Hi, I'm Tageldin Gasimalla 👋
+# Hi, I'm Tageldin Gasmalla 👋
 
 ### Software Engineering Student | Web Developer | Building Real-World Solutions
 <img src="banner.gif" alt="Coding Hello World animation" width="400"/>
