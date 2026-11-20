@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="assets/new.jpg" alt="Coding Hello World animation" height="300"/>
-  &nbsp;&nbsp;
   <img src="assets/diagram.png" alt="Diagram" height="300"/>
 </p>
 
