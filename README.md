@@ -43,3 +43,4 @@ I'm growing from front-end into full-stack development, with a focus on practica
 ## 📫 Let's Connect
 
 - GitHub: [@Tigo1123](https://github.com/Tigo1123)
+- Email: al.taj.gsm@gmail.com
